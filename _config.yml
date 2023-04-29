@@ -1,22 +1,19 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
-url: 'https://www.zuehlke.cloud'
+title: Andrej ZIRKO
+description: ''
+url: 'https://www.zirko.eu'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+profilepic: '/images/zirko.jpeg'
+bkimage: '/images/horsky-park.jpg'
+google_analytics: G-49ZKFVV56Z
+font_awesome: 'e41ef0af5a.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: thomas@zuehlke.cloud
-  mastodon: tzuehlke@mstdn.social
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  name: 'Andrej Zirko'
+  email: andrej@zirko.eu
+  twitter_username: andrej_zirko
+  github_username:  andrej-zirko
+  linkedin_username:  andrejzirko
 
 # Build settings
 destination: _site
