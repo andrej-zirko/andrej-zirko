@@ -1,6 +1,6 @@
 # Site settings
-title: Andrej ZIRKO
-description: ''
+title: Andrej ZIRKO - Delivery Manager and Technology Architect
+description: 'Andrej Zirko - Delivery Manager and Technology Architect: Contact Information. Connect with me today.'
 url: 'https://www.zirko.eu'
 baseurl: ''
 profilepic: '/images/zirko.jpeg'
@@ -30,5 +30,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-#plugins: ['jekyll-paginate']
+# plugins: ['jekyll-seo-tag']
 exclude: ['README.md', 'screenshot-overview.png']
